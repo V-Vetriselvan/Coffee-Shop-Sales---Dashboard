@@ -51,5 +51,3 @@ Based on the dashboard insights, the following actions are recommended:
 
 * **Data Source:** Sales Transaction Database (Simulated)
 * **Time Period:** January 2025 – June 2025
-* **Dashboard Platform:** [**INSERT PLATFORM HERE, e.g., Tableau / Power BI**]
-* **Last Updated:** [**INSERT DATE HERE**]
